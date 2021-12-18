@@ -1,7 +1,7 @@
 # wayfire-dotfile
 My dotfiles for Wayfire
 
-# Requirements:
+# Requirements
 1. Wayfire
 2. wf-shell
 3. wlogout
